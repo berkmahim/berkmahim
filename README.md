@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Mahim</h1>
 <h3 align="center">A Full-Stack JavaScript Developer.</h3>
 
-- 📫 How to reach me **berkmahim@outlook.com**
+- To reach me **berkmahim@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
