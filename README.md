@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Mahim</h1>
 <h3 align="center">A Full-Stack JavasSript Developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://berkmahim.github.io/](https://berkmahim.github.io/)
+- 👨‍💻 Visit my portfolio [https://berkmahim.github.io/](https://berkmahim.github.io/)
 
 - 📫 How to reach me **berkmahim@outlook.com**
 
